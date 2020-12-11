@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScheduleFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:id="@+id/date_l"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content">
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:id="@+id/spinner"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:theme="@style/ItemTextAppearance"
+            android:entries="@array/Spinner_Array"
+            android:layout_weight="1"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/date"
+            android:clickable="true"
+            android:inputType="date"
+            android:focusable="false"
+            android:padding="10dp"
+            android:fontFamily="casual"
+            android:hint="Select Date..."/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/date_l"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="114dp"
+        android:background="#FF5722"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:letterSpacing="0.2"
+        android:padding="16dp"
+        android:text="SAVE"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+
+</RelativeLayout>

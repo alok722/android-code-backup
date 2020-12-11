@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prototype</string>
+
+    <string-array name="Spinner_Array">
+        <item>Yearly</item>
+        <item>Monthly</item>
+        <item>Weekly</item>
+        <item>Daily</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">T2B Live</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_heading">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</string>
+    <string name="news_details">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        A meatier lorem ipsum because who doesn’t love bacon? Certain to help grease even the most pig-headed clients.
+    A meatier lorem ipsum because who doesn’t love bacon? Certain to help grease even the most pig-headed clients.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+                Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+                Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        A meatier lorem ipsum because who doesn’t love bacon? Certain to help grease even the most pig-headed clients.
+        A meatier lorem ipsum because who doesn’t love bacon? Certain to help grease even the most pig-headed clients.
+A meatier lorem ipsum because who doesn’t love bacon? Certain to help grease even the most pig-headed clients.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+
+    </string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="subject">Subject</string>
+    <string name="email_address">Email Address</string>
+    <string name="reason_to_contact">Reason to Contact?</string>
+    <string name="submit">Submit</string>
+</resources>

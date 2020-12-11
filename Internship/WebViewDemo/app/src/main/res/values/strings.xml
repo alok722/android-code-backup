@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebView Demo</string>
+    <string name="hello">Web Page URL</string>
+</resources>
